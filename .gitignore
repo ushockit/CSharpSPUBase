@@ -16,8 +16,6 @@
 # Mono auto generated files
 mono_crash.*
 
-# PDF files
-*.pdf
 
 # Build results
 [Dd]ebug/
